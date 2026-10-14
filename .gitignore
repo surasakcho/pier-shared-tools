@@ -1,0 +1,8 @@
+# Local copies of the release files (zips and SHA256SUMS.txt), laid out as
+# shared_tools/v<version>/. The releases on GitHub are the published copies; the
+# zips are too big for git, and the BOT proxy blocks downloading them.
+shared_tools/
+
+.claude/settings.local.json
+CLAUDE.local.md
+scratchpad/
